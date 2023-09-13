@@ -10,4 +10,5 @@ A simple file sharing web app with drag & drop features. Upload files here and g
 6. Run index.html from client folder into browser and you are ready to use.
 
 # Output
+
 ![ezgif com-video-to-gif](https://github.com/YashNagare10/Sharedrop/assets/88041908/227c5dc3-dc23-4020-b928-df76b493fe0b)
