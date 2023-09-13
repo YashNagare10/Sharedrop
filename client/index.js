@@ -14,11 +14,10 @@ const fileURL = document.querySelector("#fileURL");
 
 const toast = document.querySelector(".toast");
 
-const baseURL = "https://sharedrop-server.herokuapp.com";
+const baseURL = "http://localhost:5000";
 const uploadURL = `${baseURL}/api/files`;
 
 const maxAllowedSize = 100 * 1024 * 1024; //100mb
-
 
 browseBtn.addEventListener("click", () => {
   fileInput.click();
